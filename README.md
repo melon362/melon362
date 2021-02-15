@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning to breath
+- ⚡ Fun fact: https://melon362.github.io/ is the coolest website on earth
 
 <!--
 **melon362/melon362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
